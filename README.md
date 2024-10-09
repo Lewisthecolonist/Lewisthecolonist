@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lewisthecolonist
 - 👀 I’m interested in Web3 and deep learning AI
-- 🌱 I’m currently learning different crypto and fincicail based libraries
+- 🌱 I’m currently learning different crypto and financial based libraries
 - 💞️ I’m looking to collaborate on my crypto bot I am currently working on
 - 📫 How to reach me: message the number 470-266-6111
 - 😄 Pronouns: He/Him
