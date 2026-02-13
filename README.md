@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Lewisthecolonist
 - 👀 I’m interested in Web3 and deep learning AI
 - 🌱 I’m currently learning different crypto and financial based libraries
-- 💞️ I’m looking to collaborate on my crypto bot I am currently working on
+- 💞️ I’m looking to collaborate on my crypto trading bot I am currently working on
 - 📫 How to reach me: message the number 470-266-6111
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My current bot currently only has market making based infastructure, but I plan on making the bot use multiple different forms bot based income. I'm currently around 2.5% daily return rate.
+- ⚡ Fun fact: My current bot currently only has market making based infastructure, but I plan on making the bot use multiple different forms bot based income. I'm currently around 2% daily return rate at most.
 - 👋 Help wanted: I'm looking to collaborate with someone who has a good grasp on bot based sniping, HFT, abritrage and any other bot based techniques. For now lets keep it crypto only.
 
 <!---
